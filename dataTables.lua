@@ -1,0 +1,6 @@
+-- 20768 Oozing Bag, AQ20
+-- 21156 Scarab Bag, AQ20
+-- 17965 Yellow Sack of Gems, BWL
+-- 49294 Ashen Sack of Gems, Ony
+-- 17964 Grey Sack of Gems, BWL
+-- 17963 Green Sack of Gems, BWL
