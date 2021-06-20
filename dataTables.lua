@@ -13,6 +13,7 @@ AZP.UseItems.itemIDs =
     [183702] = {"Nature's Splendor", "NF, Soulbind"},
     [181475] = {"Bounty of the Grove Wardens", "Covenant Calling"},
     [184637] = {"Hero's Meat Cache", "SL Missions"},
+    [184632] = {"Champion's Fish Cache", "SL Missions"},
     [184643] = {"Champion's Enchanting Cache", "SL Missions"},
     [153132] = {"Coffer of Argus Equipment", "Legion Missions"},
     [181556] = {"Tribute of the Court", "Covenant Calling"},
