@@ -125,3 +125,7 @@ function AZP.UseItems:ShowHideFrame()
 end
 
 AZP.UseItems:OnLoad()
+
+AZP.SlashCommands["useItems"] = function ()
+    AZP.UseItems:ShowHideFrame()
+end

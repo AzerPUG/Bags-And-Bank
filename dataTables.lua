@@ -31,4 +31,6 @@ AZP.UseItems.itemIDs =
     [184641] = {"Champion's Mining Cache", "SL Missions"},
     [178128] = {"Pouch of Shinies", "Random Drop / PickPocket"},
     [181557] = {"Favour of the Court", "Covenant Calling"},
+    [180989] = {"Novice's Overflowing Satchel", "Queen's Conservatory"},
+    [180981] = {"Novice's Large Satchel", "Queen's Conservatory"},
 }
