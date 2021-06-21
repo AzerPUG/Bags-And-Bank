@@ -17,7 +17,7 @@ function AZP.UseItems:OnLoad()
     EventFrame:RegisterEvent("LOOT_READY")
     EventFrame:SetScript("OnEvent", function(...) AZP.UseItems:OnEvent(...) end)
 
-    AZPUISelfFrame = CreateFrame("Button", nil, UIParent, "BackdropTemplate")
+    AZPUISelfFrame = CreateFrame("Frame", nil, UIParent, "BackdropTemplate")
     AZPUISelfFrame:SetSize(150, 75)
     AZPUISelfFrame:SetPoint("CENTER", 0, 0)
     AZPUISelfFrame:SetScript("OnDragStart", AZPUISelfFrame.StartMoving)
