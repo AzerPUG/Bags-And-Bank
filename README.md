@@ -1,15 +1,19 @@
 # AzerPUG Links
-<a href="http://www.azerpug.com" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Website%20Panel.png" width="100" /></a> <a href="http://www.azerpug.com/discord" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Discord%20Panel.png" width="100" /></a>
-<br />
-<a href="http://www.twitch.tv/AzerPUG" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitch%20Panel.png" width="100" /></a> <a href="https://www.youtube.com/channel/UClMRIcLGE_0SODpOrP8AVlQ" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/YouTube%20Panel.png" width="100" /></a>
-<br />
-<a href="https://www.curseforge.com/members/azerpug/projects" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/CurseForge%20Panel.png" width="100" /></a> <a href="https://github.com/AzerPUG" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/GitHub%20Panel.png" width="100" /></a>
-<br />
-<a href="https://shop.spreadshirt.net/azerpug/" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Merch%20Panel.png" width="100" /></a> <a href="https://www.fiverr.com/arcodielhof" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Fiverr%20Panel.png" width="100" /></a>
-<br />
-<a href="https://www.instagram.com/azerpug/" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Instagram%20Panel.png" width="100" /></a> <a href="https://twitter.com/azerpug" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitter%20Panel.png" width="100" /></a>
-<br />
-<a href="https://www.patreon.com/AzerPUG" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Patreon%20Panel.png" width="100" /></a> <a href="https://www.paypal.com/donate?hosted_button_id=V4M8A5PPJWZLE" target="_blank"><img src="https://github.com/AzerPUG/AZP-Files/raw/main/Panels/PayPal%20Panel.png" width="100" /></a>
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Website%20Panel%20Small.png "")](http://www.azerpug.com "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Discord%20Panel%20Small.png "")](http://www.azerpug.com/discord "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitch%20Panel%20Small.png "")](http://www.azerpug.com/twitch "")  
+
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/CurseForge%20Panel%20Small.png "")](http://www.azerpug.com/curseforge "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/GitHub%20Panel%20Small.png "")](http://www.azerpug.com/github "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Fiverr%20Panel%20Small.png "")](http://www.azerpug.com/fiverr "")  
+
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Merch%20Panel%20Small.png "")](http://www.azerpug.com/merch "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Patreon%20Panel%20Small.png "")](http://www.azerpug.com/patreon "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/PayPal%20Panel%20Small.png "")](http://www.azerpug.com/paypal "")  
+
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/YouTube%20Panel%20Small.png "")](http://www.azerpug.com/youtube "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Twitter%20Panel%20Small.png "")](http://www.azerpug.com/twitter "") 
+[![](https://github.com/AzerPUG/AZP-Files/raw/main/Panels/Instagram%20Panel%20Small.png "")](http://www.azerpug.com/instagram "") 
 <br />
 <br />
 <br />
