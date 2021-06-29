@@ -33,4 +33,5 @@ AZP.UseItems.itemIDs =
     [181557] = {"Favour of the Court", "Covenant Calling"},
     [180989] = {"Novice's Overflowing Satchel", "Queen's Conservatory"},
     [180981] = {"Novice's Large Satchel", "Queen's Conservatory"},
+    [184395] = {"Fallen Adventurer's Cache", "Maw"},
 }
