@@ -38,6 +38,7 @@ AZP.UseItems.itemIDs =
     [185765] = {"Shipment of Heavy Callous Hide", "Valor Vendor"},
     [185832] = {"Shipment of Elethium Ore", "Valor Vendor"},
     [185833] = {"Shipment of Lightless Silk", "Valor Vendor"},
+    [185993] = {"Ascended War Chest", "Covenant Assault"},
     [187221] = {"Soul Ash Cache", "Valor Vendor"},
     [187222] = {"Stygic Singularity", "Valor Vendor"},
     [187254] = {"Arrangement of Anima", "Valor Vendor"},
