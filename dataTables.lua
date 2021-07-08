@@ -42,6 +42,7 @@ AZP.UseItems.itemIDs =
     [187221] = {"Soul Ash Cache", "Valor Vendor"},
     [187222] = {"Stygic Singularity", "Valor Vendor"},
     [187254] = {"Arrangement of Anima", "Valor Vendor"},
+    [187278] = {"Talon-Pierced Mawsworn Lockbox", "Korthia Rare Drop"},
     [187440] = {"Feather-Stuffed Helm", "Korthia Treassure"},
     [187503] = {"Bundle of Archived Research", "Valor Vendor"},
 }
