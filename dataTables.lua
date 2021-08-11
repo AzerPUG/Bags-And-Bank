@@ -1,7 +1,7 @@
 if AZP == nil then AZP = {} end
-if AZP.UseItems == nil then AZP.UseItems = {} end
+if AZP.BagsAndBank == nil then AZP.BagsAndBank = {} end
 
-AZP.UseItems.itemIDs =
+AZP.BagsAndBank.itemIDs =
 {
     [17963]  = {"Green Sack of Gems", "BWL"},
     [17964]  = {"Grey Sack of Gems", "BWL"},
@@ -45,4 +45,7 @@ AZP.UseItems.itemIDs =
     [187278] = {"Talon-Pierced Mawsworn Lockbox", "Korthia Rare Drop"},
     [187440] = {"Feather-Stuffed Helm", "Korthia Treassure"},
     [187503] = {"Bundle of Archived Research", "Valor Vendor"},
+    [184522] = {"Veiled Satchel of Cooperation", "Call To Arms Dungeon"},
+    [187569] = {"Brokers' Tailoring Mote of Potentiation", "SL Missions"},
+    [186691] = {"Gold Filled Satchel", "Korthia Dailies"}
 }
