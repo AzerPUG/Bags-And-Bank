@@ -47,5 +47,6 @@ AZP.BagsAndBank.itemIDs =
     [187503] = {"Bundle of Archived Research", "Valor Vendor"},
     [184522] = {"Veiled Satchel of Cooperation", "Call To Arms Dungeon"},
     [187569] = {"Brokers' Tailoring Mote of Potentiation", "SL Missions"},
-    [186691] = {"Gold Filled Satchel", "Korthia Dailies"}
+    [186691] = {"Gold Filled Satchel", "Korthia Dailies"},
+    [187573] = {"Brokers' Enchanting Mote of Potentiation", "SL Missions"},
 }
