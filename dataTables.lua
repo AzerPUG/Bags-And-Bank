@@ -49,4 +49,5 @@ AZP.BagsAndBank.itemIDs =
     [187569] = {"Brokers' Tailoring Mote of Potentiation", "SL Missions"},
     [186691] = {"Gold Filled Satchel", "Korthia Dailies"},
     [187573] = {"Brokers' Enchanting Mote of Potentiation", "SL Missions"},
+    [187574] = {"Brokers' Overflowing Bucket", "Korthia Dailies"},
 }
