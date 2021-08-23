@@ -50,4 +50,6 @@ AZP.BagsAndBank.itemIDs =
     [186691] = {"Gold Filled Satchel", "Korthia Dailies"},
     [187573] = {"Brokers' Enchanting Mote of Potentiation", "SL Missions"},
     [187574] = {"Brokers' Overflowing Bucket", "Korthia Dailies"},
+    [187551] = {"Small Korthian Supply Chest", "Korthia Dailies"},
+    [185972] = {"Tormentor's Cache", "Weekly Maw Boss"},
 }
