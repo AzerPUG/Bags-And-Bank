@@ -52,4 +52,5 @@ AZP.BagsAndBank.itemIDs =
     [187574] = {"Brokers' Overflowing Bucket", "Korthia Dailies"},
     [187551] = {"Small Korthian Supply Chest", "Korthia Dailies"},
     [185972] = {"Tormentor's Cache", "Weekly Maw Boss"},
+    [186196] = {"Death's Advance War chest", "Korthia Weekly"},
 }
