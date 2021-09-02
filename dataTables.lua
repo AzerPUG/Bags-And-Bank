@@ -54,4 +54,6 @@ AZP.BagsAndBank.itemIDs =
     [185972] = {"Tormentor's Cache", "Weekly Maw Boss"},
     [186196] = {"Death's Advance War chest", "Korthia Weekly"},
     [180647] = {"Ascended Supplies", "Kyrian Paragon"},
+    [180984] = {"Journeyman's Stuffed Satchel", "Night Fae Garden"},
+    [180980] = {"Journeyman's Large Satchel", "Night Fae Garden"},
 }
