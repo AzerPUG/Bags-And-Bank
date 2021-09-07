@@ -1,9 +1,9 @@
 if AZP == nil then AZP = {} end
 if AZP.BagsAndBank == nil then AZP.BagsAndBank = {} end
-if AZP.BagsAndBank.event == nil then AZP.BagsAndBank.event = {} end
+if AZP.BagsAndBank.Events == nil then AZP.BagsAndBank.Events = {} end
 if AZP.VersionControl == nil then AZP.VersionControl = {} end
 
-AZP.VersionControl["BagsAndBank"] = 9
+AZP.VersionControl["BagsAndBank"] = 10
 
 local usedContainerItem = false
 local AZPUISelfFrame, EventFrame = nil, nil
@@ -13,8 +13,8 @@ function AZP.BagsAndBank:OnLoad()
     EventFrame:RegisterEvent("VARIABLES_LOADED")
     EventFrame:RegisterEvent("LOOT_CLOSED")
     EventFrame:RegisterEvent("CHAT_MSG_LOOT")
-    EventFrame:RegisterEvent("LOOT_OPENED")
-    EventFrame:RegisterEvent("LOOT_READY")
+    -- EventFrame:RegisterEvent("LOOT_OPENED")
+    -- EventFrame:RegisterEvent("LOOT_READY")
     EventFrame:SetScript("OnEvent", function(...) AZP.BagsAndBank:OnEvent(...) end)
 
     AZPUISelfFrame = CreateFrame("Frame", nil, UIParent, "BackdropTemplate")
@@ -70,7 +70,7 @@ function AZP.BagsAndBank:SelectNextItem()
     end
 end
 
-function AZP.BagsAndBank.event:VariablesLoaded()
+function AZP.BagsAndBank.Events:VariablesLoaded()
     AZP.BagsAndBank:GetUseItemCount()
 end
 
@@ -89,7 +89,7 @@ function AZP.BagsAndBank:GetUseItemCount()
     AZPUISelfFrame.counter:SetText("Containers Found: " .. useItemCounter)
 end
 
-function AZP.BagsAndBank.event:ChatMsgLoot(...)
+function AZP.BagsAndBank.Events:ChatMsgLoot(...)
     local itemTable = AZP.BagsAndBank.itemIDs
     local _, inputText, inputPlayer = ...
     local playerName, playerServer = UnitFullName("Player")
@@ -104,10 +104,9 @@ end
 
 function AZP.BagsAndBank:OnEvent(_, ...)
     local event = ...
-    if event == "VARIABLES_LOADED" then
-        AZP.BagsAndBank.event:VariablesLoaded()
-    elseif event == "CHAT_MSG_LOOT" then
-        AZP.BagsAndBank.event:ChatMsgLoot(...)
+        if event ==          "VARIABLES_LOADED" then AZP.BagsAndBank.Events:VariablesLoaded()
+    elseif event ==             "CHAT_MSG_LOOT" then AZP.BagsAndBank.Events:ChatMsgLoot(...)
+    elseif event == "GUILDBANKBAGSLOTS_CHANGED" then AZP.BagsAndBank.Events:GuildBankBagSlotsChanged()
     end
 end
 
