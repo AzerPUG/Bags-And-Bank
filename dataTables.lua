@@ -59,4 +59,5 @@ AZP.BagsAndBank.itemIDs =
     [185992] = {"War Chest of the Undying Army", "Maw Assault"},
     [180977] = {"Spirit-Tender's Satchel", "Night Fae Garden"},
     [180976] = {"Artisian's Satchel", "Night Fae Garden"},
+    [180648] = {"Court of Harvesters Supplies", "Necrolord Paragon"},
 }
