@@ -51,6 +51,7 @@ AZP.BagsAndBank.itemIDs =
     [185993] = {Name =                       "Ascended War Chest", Source =         "Covenant Assault"},
     [186196] = {Name =                "Death's Advance War chest", Source =           "Korthia Weekly"},
     [186691] = {Name =                      "Gold Filled Satchel", Source =          "Korthia Dailies"},
+    [186707] = {Name =                        "Gold Filled Crate", Source =          "Korthia Dailies"},
     [186708] = {Name =              "Gold Filled Paint Brush Cup", Source =          "Korthia Dailies"},
     [187221] = {Name =                           "Soul Ash Cache", Source =             "Valor Vendor"},
     [187222] = {Name =                       "Stygic Singularity", Source =             "Valor Vendor"},
