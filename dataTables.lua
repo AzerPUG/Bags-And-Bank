@@ -3,6 +3,7 @@ if AZP.BagsAndBank == nil then AZP.BagsAndBank = {} end
 
 AZP.BagsAndBank.itemIDs =
 {
+      [5523] = {Name =                     "Small Barnacled Clam", Source =         "Enemies On Beach"},
      [17963] = {Name =                       "Green Sack of Gems", Source =           "BlackWing Lair"},
      [17964] = {Name =                        "Grey Sack of Gems", Source =           "BlackWing Lair"},
      [17965] = {Name =                      "Yellow Sack of Gems", Source =           "BlackWing Lair"},
