@@ -64,4 +64,5 @@ AZP.BagsAndBank.itemIDs =
     [187569] = {Name =  "Brokers' Tailoring Mote of Potentiation", Source =     "Shadowlands Missions"},
     [187573] = {Name = "Brokers' Enchanting Mote of Potentiation", Source =     "Shadowlands Missions"},
     [187574] = {Name =              "Brokers' Overflowing Bucket", Source =          "Korthia Dailies"},
+    [187576] = {Name =                  "Korthian Skinning Cache", Source =     "Shadowlands Missions"},
 }
