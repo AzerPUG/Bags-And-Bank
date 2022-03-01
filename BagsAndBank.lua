@@ -3,7 +3,7 @@ if AZP.BagsAndBank == nil then AZP.BagsAndBank = {} end
 if AZP.BagsAndBank.Events == nil then AZP.BagsAndBank.Events = {} end
 if AZP.VersionControl == nil then AZP.VersionControl = {} end
 
-AZP.VersionControl["BagsAndBank"] = 17
+AZP.VersionControl["BagsAndBank"] = 18
 
 local usedContainerItem = false
 local AZPUISelfFrame, EventFrame = nil, nil
